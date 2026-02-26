@@ -94,7 +94,7 @@ Tools and librariesused for development;
 ```
 - Clone this repository.
 ```sh
-> git clone https://github.com/knaggita/Football-Dataset-Analysis
+> git clone https://github.com/DEEp771-design/Football-Dataset-Analysis
 ```
 - Run Jupyter notebook from commandline
 ```sh
